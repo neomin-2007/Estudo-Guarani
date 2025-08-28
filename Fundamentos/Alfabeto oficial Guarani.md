@@ -1,8 +1,8 @@
 # ALFABETO MBYA GUARANI
 
-A - MB - ND - E - G - H
-I - J - K - M - N - O
-P - R - T - U - V
+A - MB - ND - E - G - H -
+I - J - K - M - N - O -
+P - R - T - U - V -
 X - W - Y
 
 **Fontes Usadas:**
