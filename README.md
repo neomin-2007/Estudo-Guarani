@@ -54,6 +54,9 @@ O Guarani é uma língua viva, profundamente ligada à cultura e à cosmovisão 
 - **Mitos e narrativas** (ex.: *Ayvu Rapyta*, *Ñande Ypykuéra*)  
 - Produção de textos próprios (redações, ensaios, artigos acadêmicos em guarani)  
 
+**Onde encontrar Cartilhas Guarani**
+https://opierj.org/cartilhas-guarani/
+
 ### Música e Oralidade  
 - Canto tradicional (*purahéi*)  
 - Narrativas orais e memórias coletivas  
