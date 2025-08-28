@@ -5,4 +5,4 @@ Os Guaranis têm origem na Amazônia, na bacia do rio Madeira, de onde migraram 
 **Glossário**
 - **Proto** Tem origem do grego, seu significado comum é de 'inicial', 'primeiro' ou 'anterior'.
 - **Mbya** Mbyá, ou Mbyá-Guarani, é o nome de um grupo étnico guarani que habita o sul da América do Sul, incluindo partes do Brasil, Paraguai, Argentina e Uruguai. O termo "Mbyá" significa "muita gente num só lugar".
-- **Cariri** A palavra também designa a família linguística dos Cariris, composta por diversas etnias indígenas que habitavam o sertão nordestino, com um grande legado cultural e linguístico. 
+- **Cariri** A palavra também designa a família linguística dos Cariris, composta por diversas etnias indígenas que habitavam o sertão nordestino, com um grande legado cultural e linguístico. A família linguística Karirí pertence ao tronco Macro-Jê e agrupa dialetos como o Kiriri, Pankarú, Xukuru, Atikum e o próprio Kariri.
